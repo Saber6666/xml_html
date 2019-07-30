@@ -31,7 +31,7 @@
     			"</FrameLayout>";<br/>	</i>   
         
 <br/><br/>			
-<font color="red">ddddddd</font>
+<h3 color="red">完整代码</h3>
 
 
                         Xml数据解析 xml数据解析 = new Xml数据解析();<br/>
